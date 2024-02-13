@@ -1,4 +1,4 @@
-# GitHubApp-no-config24
+# GitHubApp-no-config
 ewrtwertsertewrtee333
 serwertwertwetr
 gdwfgsdfgsdgsdfg
